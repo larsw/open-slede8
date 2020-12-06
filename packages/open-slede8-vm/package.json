@@ -1,0 +1,31 @@
+{
+  "name": "open-slede8-vm",
+  "version": "0.1.0",
+  "description": "An open Slede8 implementation: Virtual Machine",
+  "keywords": [
+    "slede8",
+    "fun",
+    "virtual+machine"
+  ],
+  "author": "Lars Wilhelmsen <lars@sral.org>",
+  "homepage": "https://github.com/larsw/open-slede8/tree/master/packages/open-slede8-vm#readme",
+  "license": "MIT",
+  "main": "lib/open-slede8-vm.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsw/open-slede8.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/larsw/open-slede8/issues"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "@larsw/open-slede8",
+  "version": "0.1.0",
+  "description": "An open Slede8 implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsw/open-slede8.git"
+  },
+  "keywords": [
+    "slede8",
+    "fun",
+    "compiler",
+    "processor"
+  ],
+  "author": "Lars Wilhelmsen <lars@sral.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larsw/open-slede8/issues"
+  },
+  "homepage": "https://github.com/larsw/open-slede8#readme",
+  "dependencies": {
+    "lerna": "^3.22.1"
+  }
+}
+
